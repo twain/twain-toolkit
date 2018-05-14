@@ -1,0 +1,21 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Twack_32Installer", "Twacker.vdproj", "{52DA1692-C813-4431-8497-2351358EC38A}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Twack_64Installer", "Twacker64.vdproj", "{3CA39244-D6E9-497F-822A-AF3ECFBA792F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{52DA1692-C813-4431-8497-2351358EC38A}.Release|Default.ActiveCfg = Release
+		{52DA1692-C813-4431-8497-2351358EC38A}.Release|Default.Build.0 = Release
+		{3CA39244-D6E9-497F-822A-AF3ECFBA792F}.Release|Default.ActiveCfg = Release
+		{3CA39244-D6E9-497F-822A-AF3ECFBA792F}.Release|Default.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,6 @@
+NAME                TWACK_32
+
+EXPORTS
+    TW_MainWndProc  @1
+    AboutDlgProc    @2
+    SendDlgProc     @3
