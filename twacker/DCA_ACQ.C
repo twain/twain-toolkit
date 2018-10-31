@@ -922,7 +922,7 @@ static void DoFileTransfer(HWND hWnd)
 			lstrcpy(Filename, SetupMsgGet.FileName);
 		}
 		lstrcpy(setup.FileName,Filename);//,sizeof(Filename));
-		setup.Format = TWFF_TIFF;
+		setup.Format = TWFF_BMP;
 		setup.VRefNum = 0;
 
 		/*
