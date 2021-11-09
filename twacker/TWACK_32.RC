@@ -89,7 +89,7 @@ FONT 8, "System"
 BEGIN
     DEFPUSHBUTTON   "OK",123,50,68,33,12
     CTEXT           "TWAIN_32 Twacker",120,24,9,88,12,NOT WS_GROUP
-    CTEXT           "Version 1.8.0.0   2008 March 05",121,4,29,129,12,NOT 
+    CTEXT           "Version 2.5   11/09/2021",121,4,29,129,12,NOT 
                     WS_GROUP
     CTEXT           "TWAIN Working Group",301,24,49,89,8
 END
@@ -233,8 +233,8 @@ END
 //
 
 VS_VERSION_INFO VERSIONINFO
- FILEVERSION 2,0,0,0
- PRODUCTVERSION 2,0,0,0
+ FILEVERSION 2,5,0,0
+ PRODUCTVERSION 2,5,0,0
  FILEFLAGSMASK 0x3fL
 #ifdef _DEBUG
  FILEFLAGS 0x21L
@@ -252,14 +252,14 @@ BEGIN
             VALUE "Comments", "\0"
             VALUE "CompanyName", "TWAIN Working Group\0"
             VALUE "FileDescription", "TWACK_32\0"
-            VALUE "FileVersion", "2, 0, 0, 0\0"
+            VALUE "FileVersion", "2, 5, 0, 0\0"
             VALUE "InternalName", "TWACK_32\0"
-            VALUE "LegalCopyright", "Copyright © 2009\0"
+            VALUE "LegalCopyright", "Copyright © 2009 - 2021\0"
             VALUE "LegalTrademarks", "\0"
             VALUE "OriginalFilename", "TWACK_32.exe\0"
             VALUE "PrivateBuild", "\0"
             VALUE "ProductName", "TWAIN Twacker32\0"
-            VALUE "ProductVersion", "2, 0, 0, 0\0"
+            VALUE "ProductVersion", "2, 5, 0, 0\0"
             VALUE "SpecialBuild", "JFL Peripheral Solutions Inc.\0"
         END
     END
